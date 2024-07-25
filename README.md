@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/salem-ben-mofleh-61354931b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salem-ben-mofleh-61354931b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Dev-Salem-Ben-Mofleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salem-ben-mofleh-61354931b" height="30" width="40" /></a>
 <a href="https://fb.com/salem3b_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salem3b_m" height="30" width="40" /></a>
 <a href="https://instagram.com/salem3b_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salem3b_m" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/salem ben mofleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="salem ben mofleh" height="30" width="40" /></a>
