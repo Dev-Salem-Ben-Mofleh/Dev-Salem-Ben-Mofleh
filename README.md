@@ -25,14 +25,14 @@
 
 <div>
 <p style="display: inline-block; vertical-align: middle;">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev123salem&show_icons=true&locale=en&layout=compact" alt="dev123salem" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev123salem&show_icons=true&locale=en&layout=compact" alt="Dev-Salem-Ben-Mofleh" /></p>
 
 <p style="display: inline-block; text-position: middle;">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev123salem&show_icons=true&locale=en" alt="dev123salem" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev123salem&show_icons=true&locale=en" alt="Dev-Salem-Ben-Mofleh" /></p>
 </div>
 
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev123salem&" alt="dev123salem" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev123salem&" alt="Dev-Salem-Ben-Mofleh" /></p>
 
