@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev123salem&label=Profile%20views&color=0e75b6&style=flat" alt="dev123salem" /> </p>
 
-- 🔭 I’m currently working on **Some project to practice on RestfulAPI**
+- 🔭 I’m currently working on **My graduation project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MVC**
 
 - 📫 How to reach me **salembenmofleh@gmail.com**
 
