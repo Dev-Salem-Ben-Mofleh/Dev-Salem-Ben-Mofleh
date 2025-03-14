@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My graduation project**
 
-- 🌱 I’m currently learning **MVC**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **salembenmofleh@gmail.com**
 
