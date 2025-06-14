@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Hotel Management system**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Clean Architecture**
 
 - 📫 How to reach me **salembenmofleh@gmail.com**
 
