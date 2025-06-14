@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Hotel Management system**
 
-- 🌱 I’m currently learning **Clean Architecture**
+- 🌱 I’m currently learning **React,Typescript**
 
 - 📫 How to reach me **salembenmofleh@gmail.com**
 
