@@ -17,12 +17,6 @@
 <a href="https://fb.com/salem3b_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salem3b_m" height="30" width="40" /></a>
 <a href="https://instagram.com/salem3b_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salem3b_m" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/salem ben mofleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="salem ben mofleh" height="30" width="40" /></a>
-<a href="https://www.typescriptlang.org/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="30" width="40" />
-</a>
-<a href="https://tailwindcss.com/" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30" width="40" />
-</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,6 +48,12 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="30" width="40" />
+</a>
+<a href="https://tailwindcss.com/" target="blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30" width="40" />
+</a>
 </p>
 <br>
 
