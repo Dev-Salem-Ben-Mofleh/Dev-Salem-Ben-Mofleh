@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev123salem&label=Profile%20views&color=0e75b6&style=flat" alt="dev123salem" /> </p>
 
-- 🔭 I’m currently working on **Hotel Management system**
+- 🔭 I’m currently working on **Car Rental system**
 
-- 🌱 I’m currently learning **React,Clean Architecture**
+- 🌱 I’m currently learning **Angular , javaScript**
 
 - 📫 How to reach me **salembenmofleh@gmail.com**
 
