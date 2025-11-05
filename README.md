@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Car Rental system**
 
-- 🌱 I’m currently learning **Angular , javaScript**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **salembenmofleh@gmail.com**
 
